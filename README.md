@@ -1,4 +1,4 @@
-# Pilpelines_ML-Julia_and_Spark
+# Pilpelines de Machine Learning com Linguagem Scala e Spark
 
 Normalmente, usamos Scala para missões críticas, por conta de sua confiabilidade. 
 
